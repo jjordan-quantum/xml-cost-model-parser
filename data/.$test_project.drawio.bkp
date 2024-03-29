@@ -1,0 +1,193 @@
+<mxfile host="Electron" modified="2024-03-28T20:06:07.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ljI1DfaBiReDOjftCood" version="24.1.0" type="device">
+  <diagram name="Page-1" id="LbiL-ViiE3Ngqwq_KXWn">
+    <mxGraphModel dx="3990" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XOTfRUJzOYHc899-o0_s-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-1" target="XOTfRUJzOYHc899-o0_s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="PROJECT: My Test Project" nodeType="project" id="XOTfRUJzOYHc899-o0_s-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="120" y="120" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-2" target="XOTfRUJzOYHc899-o0_s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-2" target="XOTfRUJzOYHc899-o0_s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-2" target="XOTfRUJzOYHc899-o0_s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-2" target="XOTfRUJzOYHc899-o0_s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="SUB PROJECT: Project A" nodeType="subProject" id="XOTfRUJzOYHc899-o0_s-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="450" y="270" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="BID ITEM GROUP: 01 General" nodeType="bidItemGroup" id="XOTfRUJzOYHc899-o0_s-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="920" y="330" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-6" target="XOTfRUJzOYHc899-o0_s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="BID ITEM GROUP:&amp;nbsp;31 Earthworks" nodeType="bidItemGroup" id="XOTfRUJzOYHc899-o0_s-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="920" y="450" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="BID ITEM GROUP:&amp;nbsp;32 Roads and Site Improvements" nodeType="bidItemGroup" id="XOTfRUJzOYHc899-o0_s-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="920" y="690" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="BID ITEM GROUP: 33 Utilities" nodeType="bidItemGroup&#xa;bidItemGroup" id="XOTfRUJzOYHc899-o0_s-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="920" y="830" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-13" target="XOTfRUJzOYHc899-o0_s-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-13" target="XOTfRUJzOYHc899-o0_s-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="BID ITEM: 3.0 Common Excavation - Export and Dispose of Excess" nodeType="bidItem" itemNumber="3.0" estQuantity="4500" units="m3" takeoffQuantity="4500" id="XOTfRUJzOYHc899-o0_s-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1140" y="550" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="PROJECT: Template" nodeType="project" id="XOTfRUJzOYHc899-o0_s-21">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1340" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SUB PROJECT: Template" nodeType="subProject" id="XOTfRUJzOYHc899-o0_s-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1420" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="BID ITEM GROUP: Template" nodeType="bidItemGroup" id="XOTfRUJzOYHc899-o0_s-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1540" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ACTIVITY: Template" nodeType="activity" activityType="" activityDescription="" productionQuantity="" productionRate="" productionQuantityUnits="" productionRateUnits="" productionDurationHours="" id="XOTfRUJzOYHc899-o0_s-25">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1740" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="BID ITEM: Template" nodeType="bidItem" itemNumber="3.0" estQuantity="4500" units="m3" takeoffQuantity="4500" id="XOTfRUJzOYHc899-o0_s-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1650" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="CREW: Template" nodeType="crew" crewType="" crewDescription="" id="XOTfRUJzOYHc899-o0_s-31">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="2090" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="LABOUR: Template" nodeType="labour" labourType="" labourDescription="" baseHourlyRate="" id="XOTfRUJzOYHc899-o0_s-36">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="2170" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="EQUIPMENT: Template" nodeType="equipment" baseHourlyRate="" baseDayRate="" baseWeeklyRate="" baseMonthlyRate="" equipmentType="" equipmentDescription="" idleFuelConsumptionPerDay="" idleFuelConsumptionPerHour="" workingFuelConsumptionPerHour="" workingFuelConsumptionPerDay="" id="XOTfRUJzOYHc899-o0_s-37">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="2240" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="VEHICLE: Template" nodeType="vehicle" vehicleDescription="" vehicleType="" baseHourlyRate="" baseDayRate="" baseWeeklyRate="" baseMonthlyRate="" baseFuelConsumptionPerHour="" baseFuelConsumptionPerDay="" id="XOTfRUJzOYHc899-o0_s-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="2320" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ASSIGNED CREW: Template" nodeType="assignedCrew" crewDefinition="" id="XOTfRUJzOYHc899-o0_s-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2090" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ASSIGNED LAB: Template" nodeType="assignedLabour" labourDefinition="" id="XOTfRUJzOYHc899-o0_s-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2170" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ASSIGNED EQUIP: Template" nodeType="assignedEquipment" equipmentDefinition="" id="XOTfRUJzOYHc899-o0_s-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2240" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ASSIGNED VEHICLE: Template" nodeType="assignedVehicle" vehicleDefinition="" id="XOTfRUJzOYHc899-o0_s-42">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2320" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SUBCONTRACTOR: Template" nodeType="subcontractor" id="XOTfRUJzOYHc899-o0_s-43">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2010" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SITE FEATURE: Template" nodeType="siteFeature" activityType="" activityDescription="" productionQuantity="" productionRate="" productionQuantityUnits="" productionRateUnits="" productionDurationHours="" id="XOTfRUJzOYHc899-o0_s-44">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99FF;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1830" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ASSEMBLY: Template" nodeType="assembly" activityType="" activityDescription="" productionQuantity="" productionRate="" productionQuantityUnits="" productionRateUnits="" productionDurationHours="" id="XOTfRUJzOYHc899-o0_s-45">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-1220" y="1920" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-46" target="XOTfRUJzOYHc899-o0_s-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="ACTIVITY: common excavation" nodeType="activity" activityType="" activityDescription="" productionQuantity="" productionRate="" productionQuantityUnits="" productionRateUnits="" productionDurationHours="" id="XOTfRUJzOYHc899-o0_s-46">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1520" y="630" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="CREW: Common Ex Crew" nodeType="assignedCrew" crewDefinition="Common Ex Crew" id="XOTfRUJzOYHc899-o0_s-47">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1760" y="720" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-52" target="XOTfRUJzOYHc899-o0_s-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTfRUJzOYHc899-o0_s-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XOTfRUJzOYHc899-o0_s-52" target="XOTfRUJzOYHc899-o0_s-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="ACTIVITY:&amp;nbsp;haul excess to vendor dump site" nodeType="activity" activityType="" activityDescription="" productionQuantity="" productionRate="" productionQuantityUnits="" productionRateUnits="" productionDurationHours="" id="XOTfRUJzOYHc899-o0_s-52">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1520" y="810" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="TRUCKING: Template" nodeType="trucking" truckType="" hourlyRate="" totalTrucks="" roundTripDurationHours="" totalRoundTrips="" truckingDescription="" id="XOTfRUJzOYHc899-o0_s-57">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2410" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="TRUCKING: Truck and Pup Haul" nodeType="trucking" truckType="Truck and Pup" hourlyRate="175" totalTrucks="4" roundTripDurationHours="1.25" totalRoundTrips="396" truckingDescription="Truck and Pup Haul" id="XOTfRUJzOYHc899-o0_s-58">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1770" y="920" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="INCIDENTAL COST: Template" nodeType="incidentalCost" incidentalCostDescription="" incidentalCostType="" vendorType="" quantity="" units="" unitRate="" subTotal="" tax="" totalCost="" id="XOTfRUJzOYHc899-o0_s-61">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-860" y="2500" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="INCIDENTAL COST: Tipping Fees" nodeType="incidentalCost" incidentalCostDescription="Clean fill tipping fees" incidentalCostType="fees" vendorType="gravel pit" quantity="692" units="box" unitRate="50" subTotal="34600" tax="0" totalCost="34600" id="XOTfRUJzOYHc899-o0_s-62">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1770" y="1020" width="210" height="60" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

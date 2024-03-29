@@ -1,0 +1,128 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"PROJECT: Template\" nodeType=\"project\" projectName=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "project"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"SUB PROJECT: Template\" nodeType=\"subProject\" subProjectName=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"20\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"30\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"shape=mxgraph.signs.travel.museum;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30\" y=\"30\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "sub project"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"BID ITEM GROUP: Template\" nodeType=\"bidItemGroup\" bidItemGroupDescription=\"\" bidItemGroupNumber=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"15\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"15\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"25\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"\" style=\"shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"25\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"8\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"35\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"9\" value=\"\" style=\"shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"35\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "bid item group"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"BID ITEM: Template\" nodeType=\"bidItem\" itemNumber=\"3.0\" estQuantity=\"4500\" units=\"m3\" takeoffQuantity=\"4500\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"25\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"25\" width=\"10\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "bid item"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"SITE FEATURE: Template\" nodeType=\"siteFeature\" activityType=\"\" productionQuantity=\"\" productionRate=\"\" productionQuantityUnits=\"\" productionRateUnits=\"\" productionDurationHours=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99FF;strokeColor=#9673a6;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.travel.stairs;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"6\" y=\"17.5\" width=\"34\" height=\"25\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "site feature"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ASSEMBLY: Template\" nodeType=\"assembly\" activityType=\"\" productionQuantity=\"\" productionRate=\"\" productionQuantityUnits=\"\" productionRateUnits=\"\" productionDurationHours=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=#9673a6;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.sports.picnic_shelter;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"5\" y=\"15\" width=\"35\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "assembly"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"CREW: Template\" nodeType=\"crew\" crewType=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30\" y=\"25\" width=\"10\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"shape=mxgraph.signs.sports.rv;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"30\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"10\" width=\"20\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "crew"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"LABOUR: Template\" nodeType=\"labour\" labourType=\"\" baseHourlyRate=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"15\" width=\"10\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "labour"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"EQUIPMENT: Template\" nodeType=\"equipment\" baseHourlyRate=\"\" baseDayRate=\"\" baseWeeklyRate=\"\" baseMonthlyRate=\"\" equipmentType=\"\" idleFuelConsumptionPerDay=\"\" idleFuelConsumptionPerHour=\"\" workingFuelConsumptionPerHour=\"\" workingFuelConsumptionPerDay=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"8\" y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "equipment"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"VEHICLE: Template\" nodeType=\"vehicle\" vehicleType=\"\" baseHourlyRate=\"\" baseDayRate=\"\" baseWeeklyRate=\"\" baseMonthlyRate=\"\" baseFuelConsumptionPerHour=\"\" baseFuelConsumptionPerDay=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.sports.rv;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"8\" y=\"20\" width=\"30\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "vehicle"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"SUBCONTRACTOR: Template\" nodeType=\"subcontractor\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.sports.view;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"16\" width=\"30\" height=\"28\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "subcontractor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ASSIGNED CREW: Template\" nodeType=\"assignedCrew\" crewDefinition=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"30\" y=\"25\" width=\"10\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"shape=mxgraph.signs.sports.rv;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"30\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"10\" width=\"20\" height=\"15\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "assigned crew"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ASSIGNED EQUIP: Template\" nodeType=\"assignedEquipment\" equipmentDefinition=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "assigned equipment"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ASSIGNED VEHICLE: Template\" nodeType=\"assignedVehicle\" vehicleDefinition=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.sports.rv;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"20\" width=\"30\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "assigned vehicle"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"TRUCKING: Template\" nodeType=\"trucking\" truckType=\"\" hourlyRate=\"\" totalTrucks=\"\" roundTripDurationHours=\"\" totalRoundTrips=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.transportation.truck_6;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"20\" width=\"20\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "trucking"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-2.2737367544323206e-13\" width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"INCIDENTAL COST: Template\" nodeType=\"incidentalCost\" incidentalCostType=\"\" vendorType=\"\" quantity=\"\" units=\"\" unitRate=\"\" subTotal=\"\" tax=\"\" totalCost=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"5\" y=\"20\" width=\"30\" height=\"29\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "incidental"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ASSIGNED LAB: Template\" nodeType=\"assignedLabour\" labourDefinition=\"\" description=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"210\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.people.man_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"20\" y=\"15\" width=\"10\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 210,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "assigned labour"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"ACTIVITY: Template\" nodeType=\"activity\" activityType=\"\" productionQuantity=\"\" productionRate=\"\" productionQuantityUnits=\"\" productionRateUnits=\"\" productionDurationHours=\"\" description=\"\" productionDurationPerUnit=\"\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;fontStyle=1;spacingLeft=50;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"320\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"\" style=\"shape=mxgraph.signs.sports.rock_collection;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 320,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "activity"
+  }
+]</mxlibrary>
